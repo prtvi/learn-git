@@ -7,3 +7,6 @@ To learn basic Git commands
 - `git add .`
 - `git commit -m "message"`
 - `git remote -v`
+- `git branch`
+- `git checkout <branch_name>`
+- `git rm <filename>`
