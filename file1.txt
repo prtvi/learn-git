@@ -1,3 +1,0 @@
-This is the first commit.
-
-Well adding some content now to make commits.
